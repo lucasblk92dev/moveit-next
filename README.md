@@ -45,5 +45,9 @@ SEO sulution
 
 SSG: Static Side Generation
 
+# COMMANDS 
+```bash
 npx create-next-app moveit-next
+# and
 npx add typescrope @types/react @types/react-dom @types/node
+```
