@@ -45,7 +45,7 @@ SEO sulution
 
 SSG: Static Side Generation
 
-# COMMANDS 
+### COMMANDS 
 ```bash
 npx create-next-app moveit-next
 # and
